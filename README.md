@@ -1,2 +1,5 @@
-# html-practice
-html practice
+<html>
+  <doctype>
+    
+  </doctype>
+</html>
