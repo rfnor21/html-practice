@@ -1,5 +1,1 @@
-<html>
-  <doctype>
-    
-  </doctype>
-</html>
+hello world
